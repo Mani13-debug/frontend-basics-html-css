@@ -1,0 +1,20 @@
+p {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.model {
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 40px;
+
+}
+
+.info {
+  margin-top: 10px;
+
+}
